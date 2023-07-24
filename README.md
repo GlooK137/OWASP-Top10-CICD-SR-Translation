@@ -1,5 +1,5 @@
 # OWASP-Top10-CICD-SR-Translation
-Привет! Это репозиторий с переводом OWASP Top 10 CI/CD Security Risks. Здесь я перевел официальный документ "OWASP Top 10 CI/CD Security Risks" на русский язык. Исходный документ доступен по ссылке: OWASP Top 10 CI/CD Security Risks.
+Привет! Это репозиторий с переводом OWASP Top 10 CI/CD Security Risks. Здесь я перевел официальный документ "OWASP Top 10 CI/CD Security Risks" на русский язык. Исходный документ доступен по ссылке: [OWASP Top 10 CI/CD Security Risks.](https://owasp.org/www-project-top-10-ci-cd-security-risks/)
 
 ## Что такое OWASP Top 10 CI/CD Security Risks?
 OWASP Top 10 CI/CD Security Risks - это список из десяти наиболее серьезных уязвимостей в процессах непрерывной интеграции и доставки (CI/CD). В этом списке можно найти самые распространенные риски безопасности в CI/CD пайплайнах и узнать, как с ними бороться.
